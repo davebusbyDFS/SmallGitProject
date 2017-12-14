@@ -2,5 +2,6 @@
 <CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl" MasterStylesheetOverride="True" xml:lang="en-us" SourceControlBound="true" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." SourceControlProviderType="Git" ProjectGuid="a1edb01c-08ec-4473-8a58-48b4c5679124">
     <Synchronize>
         <Mapping ProjectPath="Content/Resources/Images/dietcoke.jpg" ExternalPath="file:///C:/Users/rr146301/Downloads/dietcoke.jpg" />
+        <Mapping ProjectPath="Content/Resources/Images/cooganamboy.jpg" ExternalPath="file:///C:/Users/rr146301/Downloads/cooganamboy.jpg" />
     </Synchronize>
 </CatapultProject>
